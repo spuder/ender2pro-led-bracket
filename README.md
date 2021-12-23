@@ -57,7 +57,9 @@ Parts list below.
 
 
 ---
-The contents of this readme were automatically generated from my [:notebook: template](https://github.com/spuder/fusion360-template) 
+The contents of this readme were automatically generated from my [:notebook: template](https://github.com/spuder/fusion360-template).  
+**Do not edit `README.md` directly since it will be overwritten by `templates/README.md.erb`**  
+
 ```
 make all
 # or
