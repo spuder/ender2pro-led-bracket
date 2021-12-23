@@ -1,13 +1,12 @@
 
 # Ender-2 Pro LED Brackets
-A collection of 3d printed parts to hold an LED light bar to an Ender 2 Pro\n
-Parts list below. 
+A collection of 3d printed parts to hold an LED light bar to an Ender 2 Pro
 
 
 
 ## :triangular_ruler: CAD files
 
-3d files are located in the [./CAD](./CAD) directory.
+3d files are located in the [CAD](./CAD) directory.
 - `*.f3d` = Fusion 360 Files
 - `*.stl` = 3d Printable Files
 
@@ -43,6 +42,7 @@ Parts list below.
 | 🟢 Distribution | | 🔴 Warranty | 
 | 🟢 Modification | |  |
 | 🟢 Private use | |   |
+
 
 
 ---
