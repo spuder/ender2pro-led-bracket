@@ -1,0 +1,27 @@
+---
+name: Ender-2 Pro LED Brackets
+description: |
+  A collection of 3d printed parts to hold an LED defuser to an Ender 2 Pro
+  Parts list below. 
+license: 
+  type: MIT # MIT, GPL
+  owner: Spencer Owen
+  year: 2020
+CAD: 
+  - M3 LED Bracket
+  - M4 LED Bracket
+  - EndCap Closed
+  - EndCap Open
+resources:
+  LED Shroud: https://www.amazon.com/Muzata-Aluminum-Mounting-Installations-Diffuser/dp/B01M09PBYX/ref=pd_lpo_3?pd_rd_i=B01M09PBYX&psc=1
+  JST Connector: https://www.amazon.com/eBoot-Connector-Female-Cable-Battery/dp/B01M5AHF0Z/ref=sr_1_2?crid=Y3ZXLKZ6CAED&keywords=jst+connector&qid=1640284019&sprefix=jst+co%2Caps%2C473&sr=8-2
+  12 V Buck Converter: https://www.amazon.com/gp/product/B0758ZTS61/ref=ppx_yo_dt_b_search_asin_title?ie=UTF8&psc=1
+  Ender 2 Pro: https://www.creality3dofficial.com/products/creality-ender-2-3d-printer
+photos:
+  - photos/IMG_0987.jpeg
+fusion_link: herpderp
+links:
+  Thingiverse: https://www.thingiverse.com/thing:xxxx
+  Prusa: https://foo.com
+  GrabCad: https://foo.com
+# https://choosealicense.com/
