@@ -45,7 +45,6 @@ Parts list below.
 | 🟢 Private use | |   |
 
 
-
 ---
 The contents of this readme were automatically generated from my [:notebook: template](https://github.com/spuder/fusion360-template) 
 ```
