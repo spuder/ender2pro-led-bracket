@@ -1,19 +1,9 @@
 
 # Ender-2 Pro LED Brackets
-A collection of 3d printed parts to hold an LED defuser to an Ender 2 Pro
+A collection of 3d printed parts to hold an LED light bar to an Ender 2 Pro\n
 Parts list below. 
 
 
-
-## :globe_with_meridians: Links
-
-
-**Autodesk Fusion 360 file**: [herpderp](herpderp)
-
-
-- **Thingiverse**: [https://www.thingiverse.com/thing:xxxx](https://www.thingiverse.com/thing:xxxx)
-- **Prusa**: [https://foo.com](https://foo.com)
-- **GrabCad**: [https://foo.com](https://foo.com)
 
 ## :triangular_ruler: CAD files
 
@@ -57,9 +47,7 @@ Parts list below.
 
 
 ---
-The contents of this readme were automatically generated from my [:notebook: template](https://github.com/spuder/fusion360-template).  
-**Do not edit `README.md` directly since it will be overwritten by `templates/README.md.erb`**  
-
+The contents of this readme were automatically generated from my [:notebook: template](https://github.com/spuder/fusion360-template) 
 ```
 make all
 # or
