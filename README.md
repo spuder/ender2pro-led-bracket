@@ -1,8 +1,14 @@
 
-# Ender-2 Pro LED Brackets
+# Ender-2 Pro LED Bracket
 A collection of 3d printed parts to hold an LED light bar to an Ender 2 Pro
 
 
+
+## :globe_with_meridians: Links
+
+
+
+- **Github**: [https://github.com/spuder/ender2pro-led-bracket](https://github.com/spuder/ender2pro-led-bracket)
 
 ## :triangular_ruler: CAD files
 
@@ -33,6 +39,14 @@ A collection of 3d printed parts to hold an LED light bar to an Ender 2 Pro
 
 ## :camera: Photos
 
+
+![](photos%2FIMG_1001.jpeg)
+
+
+
+![](photos%2FScreen%20Shot%202021-12-25%20at%2010.21.51%20AM.png)
+
+
 ---
 
 ## MIT License ![](https://img.shields.io/badge/license-MIT-lightgrey) 
@@ -52,6 +66,4 @@ Use this template yourself by clicking here:
 
 ```
 make all
-# or
-make clean; make stl; make jpeg; make template
 ```
