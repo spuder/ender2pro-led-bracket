@@ -10,12 +10,12 @@ A collection of 3d printed parts to hold an LED light bar to an Ender 2 Pro
 - `*.f3d` = Fusion 360 Files
 - `*.stl` = 3d Printable Files
 
-| Filename | STL |
-| --- | --- | 
-| [M3 LED Bracket](./CAD/M3%20LED%20Bracket.stl) | ![](./CAD/M3%20LED%20Bracket.stl.png) |
-| [M4 LED Bracket](./CAD/M4%20LED%20Bracket.stl) | ![](./CAD/M4%20LED%20Bracket.stl.png) |
-| [EndCap Closed](./CAD/EndCap%20Closed.stl) | ![](./CAD/EndCap%20Closed.stl.png) |
-| [EndCap Open](./CAD/EndCap%20Open.stl) | ![](./CAD/EndCap%20Open.stl.png) |
+| Filename | STL | GIF | 
+| --- | --- | --- | 
+| [CAD/EndCap Open.stl](./CAD%2FEndCap%20Open.stl) | ![](./CAD%2FEndCap%20Open.stl.png) | ![](./CAD%2FEndCap%20Open.stl.gif) | 
+| [CAD/EndCap Closed.stl](./CAD%2FEndCap%20Closed.stl) | ![](./CAD%2FEndCap%20Closed.stl.png) | ![](./CAD%2FEndCap%20Closed.stl.gif) | 
+| [CAD/M3 LED Bracket.stl](./CAD%2FM3%20LED%20Bracket.stl) | ![](./CAD%2FM3%20LED%20Bracket.stl.png) | ![](./CAD%2FM3%20LED%20Bracket.stl.gif) | 
+| [CAD/M4 LED Bracket.stl](./CAD%2FM4%20LED%20Bracket.stl) | ![](./CAD%2FM4%20LED%20Bracket.stl.png) | ![](./CAD%2FM4%20LED%20Bracket.stl.gif) | 
 
 ## :notebook: Resources
 
@@ -31,22 +31,25 @@ A collection of 3d printed parts to hold an LED light bar to an Ender 2 Pro
 - [Ender 2 Pro](https://www.creality3dofficial.com/products/creality-ender-2-3d-printer)
 
 
+## :camera: Photos
+
 ---
 
 ## MIT License ![](https://img.shields.io/badge/license-MIT-lightgrey) 
 [(what does this mean?)](https://choosealicense.com/licenses/mit/)
 
-| Permissions| Conditions | Limitations |
-| --- | --- | --- |
-| 🟢 Commercial Use | 🔵 License and copyright notice| 🔴 Liability | 
-| 🟢 Distribution | | 🔴 Warranty | 
-| 🟢 Modification | |  |
-| 🟢 Private use | |   |
-
 
 
 ---
-The contents of this readme were automatically generated from my [:notebook: template](https://github.com/spuder/fusion360-template) 
+## Template
+The contents of this readme were automatically generated from this [:notebook: template](https://github.com/spuder/CAD-template). 
+
+Use this template yourself by clicking here: 
+
+<!-- Place this tag where you want the button to render. -->
+<a class="github-button" href="https://github.com/ntkme/github-buttons/generate" data-color-scheme="no-preference: dark; light: light; dark: dark;" data-icon="octicon-repo-template" data-size="large" aria-label="Use this template ntkme/github-buttons on GitHub">Use this template</a>
+
+
 ```
 make all
 # or

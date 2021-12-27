@@ -6,11 +6,6 @@ license:
   type: MIT # MIT, GPL
   owner: Spencer Owen
   year: 2020
-CAD: 
-  - M3 LED Bracket
-  - M4 LED Bracket
-  - EndCap Closed
-  - EndCap Open
 resources:
   LED Shroud: https://www.amazon.com/Muzata-Aluminum-Mounting-Installations-Diffuser/dp/B01M09PBYX/ref=pd_lpo_3?pd_rd_i=B01M09PBYX&psc=1
   JST Connector: https://www.amazon.com/eBoot-Connector-Female-Cable-Battery/dp/B01M5AHF0Z/ref=sr_1_2?crid=Y3ZXLKZ6CAED&keywords=jst+connector&qid=1640284019&sprefix=jst+co%2Caps%2C473&sr=8-2
