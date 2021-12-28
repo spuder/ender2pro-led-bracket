@@ -15,7 +15,7 @@ This comes in a M3 or M4 Bolt version. (M3 Pictured)
 - 24 / 12 V LEDs
 - 12V Buck converter (optional)
 
-The Ender 2 Pro runs on 12 volts, where as many LED strips run on 12V. If using 12V leds, add a 12V buck converter or DC-DC Converter. 
+The Ender 2 Pro runs on 24 volts, whereas many LED strips run on 12V. If using 12V leds, add a 24-12V buck converter or DC-DC Converter. 
 [This one](https://www.amazon.com/gp/product/B0758ZTS61/ref=ppx_yo_dt_b_search_asin_title?ie=UTF8&psc=1) should be fine for up to 1Amp of current (Add a heatsync if planning on using more than 1Amp). 
 
 You will need to splice in power from the 24V output of the circuit board. For safety, it is reccomended to _NOT_ add tinned wire to the wires that will be
@@ -90,9 +90,8 @@ crimped in the screw terminal. The best connection will be with a [Ferrule Crimp
 
 ---
 
-## MIT License ![](https://img.shields.io/badge/license-MIT-lightgrey) 
-[(what does this mean?)](https://choosealicense.com/licenses/mit/)
-
+## Creative Commons License 
+<a rel="license" href="http://creativecommons.org/licenses/by/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by/4.0/88x31.png" /></a><br />This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution 4.0 International License</a>.
 
 
 ---

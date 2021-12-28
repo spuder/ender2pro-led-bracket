@@ -24,7 +24,7 @@ description: |
 
 
 license: 
-  type: MIT # MIT, GPL
+  type: CC-Attribution # MIT, GPL, CC-Attribution, CC-Attribution-NoDerivs, CC-Attribution-ShareAlike, CC-Attribution-NonCommercial, CC-Attribution-NC-SA
   owner: Spencer Owen
   year: 2020
 resources:
