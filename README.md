@@ -27,6 +27,7 @@ crimped in the screw terminal. The best connection will be with a [Ferrule Crimp
 
 
 
+- **Thingiverse**: [https://www.thingiverse.com/thing:5176620](https://www.thingiverse.com/thing:5176620)
 - **Github**: [https://github.com/spuder/ender2pro-led-bracket](https://github.com/spuder/ender2pro-led-bracket)
 
 ## :triangular_ruler: CAD files
@@ -43,51 +44,21 @@ crimped in the screw terminal. The best connection will be with a [Ferrule Crimp
 | [CAD/M4 LED Bracket.stl](./CAD%2FM4%20LED%20Bracket.stl) | ![](./CAD%2FM4%20LED%20Bracket.stl.png) | ![](./CAD%2FM4%20LED%20Bracket.stl.gif) | 
 
 ## :notebook: Resources
-
 - [LED Diffuser](https://www.amazon.com/Muzata-Aluminum-Mounting-Installations-Diffuser/dp/B01M09PBYX/ref=pd_lpo_3?pd_rd_i=B01M09PBYX&psc=1)
-
-
 - [JST Connector](https://www.amazon.com/eBoot-Connector-Female-Cable-Battery/dp/B01M5AHF0Z/ref=sr_1_2?crid=Y3ZXLKZ6CAED&keywords=jst+connector&qid=1640284019&sprefix=jst+co%2Caps%2C473&sr=8-2)
-
-
 - [12 V Buck Converter](https://www.amazon.com/gp/product/B0758ZTS61/ref=ppx_yo_dt_b_search_asin_title?ie=UTF8&psc=1)
-
-
 - [Ender 2 Pro](https://www.creality3dofficial.com/products/creality-ender-2-3d-printer)
-
-
 - [T-Nuts](https://www.thingiverse.com/thing:3050607/files)
-
-
 - [Ferrule Crimping Tool](https://www.amazon.com/dp/B07WRQN45C/ref=cm_sw_em_r_mt_dp_77HQ230C1YMWYS03GKH8)
 
-
 ## :camera: Photos
-
-
 ![](photos%2FIMG_1110.jpeg)
-
-
-
 ![](photos%2FIMG_0934.jpeg)
-
-
-
+![](photos%2Fcropped)
 ![](photos%2FIMG_1001.jpeg)
-
-
-
 ![](photos%2FIMG_0990%202.jpeg)
-
-
-
 ![](photos%2FScreen%20Shot%202021-12-25%20at%2010.21.51%20AM.png)
-
-
-
 ![](photos%2FIMG_1109.jpeg)
-
-
 ---
 
 ## Creative Commons License 
