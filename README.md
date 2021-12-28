@@ -96,12 +96,8 @@ crimped in the screw terminal. The best connection will be with a [Ferrule Crimp
 
 ---
 ## Template
-The contents of this readme were automatically generated from this [:notebook: template](https://github.com/spuder/CAD-template). 
+The contents of this readme were automatically generated from this [:notebook: template](https://github.com/spuder/CAD-template). <a class="github-button" href="https://github.com/spuder/CAD-template/generate" data-color-scheme="no-preference: dark; light: light; dark: dark;" data-icon="octicon-repo-template" data-size="large" aria-label="Use this template spuder/CAD-template on GitHub">Click here to use this template</a>
 
-Use this template yourself by clicking here: 
-
-<!-- Place this tag where you want the button to render. -->
-<a class="github-button" href="https://github.com/ntkme/github-buttons/generate" data-color-scheme="no-preference: dark; light: light; dark: dark;" data-icon="octicon-repo-template" data-size="large" aria-label="Use this template ntkme/github-buttons on GitHub">Use this template</a>
 
 
 ```
