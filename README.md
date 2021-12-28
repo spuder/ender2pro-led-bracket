@@ -53,6 +53,7 @@ crimped in the screw terminal. The best connection will be with a [Ferrule Crimp
 
 ## :camera: Photos
 ![](photos%2FIMG_1110.jpeg)
+![](photos%2FRender1.png)
 ![](photos%2FIMG_0934.jpeg)
 ![](photos%2Fcropped)
 ![](photos%2FIMG_1001.jpeg)
