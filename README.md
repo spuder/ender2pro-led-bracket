@@ -38,10 +38,10 @@ crimped in the screw terminal. The best connection will be with a [Ferrule Crimp
 
 | Filename | STL | GIF | 
 | --- | --- | --- | 
-| [CAD/EndCap Open.stl](./CAD%2FEndCap%20Open.stl) | ![](./CAD%2FEndCap%20Open.stl.png) | ![](./CAD%2FEndCap%20Open.stl.gif) | 
-| [CAD/EndCap Closed.stl](./CAD%2FEndCap%20Closed.stl) | ![](./CAD%2FEndCap%20Closed.stl.png) | ![](./CAD%2FEndCap%20Closed.stl.gif) | 
-| [CAD/M3 LED Bracket.stl](./CAD%2FM3%20LED%20Bracket.stl) | ![](./CAD%2FM3%20LED%20Bracket.stl.png) | ![](./CAD%2FM3%20LED%20Bracket.stl.gif) | 
-| [CAD/M4 LED Bracket.stl](./CAD%2FM4%20LED%20Bracket.stl) | ![](./CAD%2FM4%20LED%20Bracket.stl.png) | ![](./CAD%2FM4%20LED%20Bracket.stl.gif) | 
+| [CAD/EndCap Open.stl](./CAD%2FEndCap%20Open.stl) | ![](./CAD%2FEndCap%20Open.png) | ![](./CAD%2FEndCap%20Open.gif) | 
+| [CAD/EndCap Closed.stl](./CAD%2FEndCap%20Closed.stl) | ![](./CAD%2FEndCap%20Closed.png) | ![](./CAD%2FEndCap%20Closed.gif) | 
+| [CAD/M3 LED Bracket.stl](./CAD%2FM3%20LED%20Bracket.stl) | ![](./CAD%2FM3%20LED%20Bracket.png) | ![](./CAD%2FM3%20LED%20Bracket.gif) | 
+| [CAD/M4 LED Bracket.stl](./CAD%2FM4%20LED%20Bracket.stl) | ![](./CAD%2FM4%20LED%20Bracket.png) | ![](./CAD%2FM4%20LED%20Bracket.gif) | 
 
 ## :notebook: Resources
 - [LED Diffuser](https://www.amazon.com/Muzata-Aluminum-Mounting-Installations-Diffuser/dp/B01M09PBYX/ref=pd_lpo_3?pd_rd_i=B01M09PBYX&psc=1)
